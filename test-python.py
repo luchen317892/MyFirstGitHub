@@ -100,6 +100,7 @@ class Student():
 
 x = Student('Alan', 88)
 print(x.get_grade())
+'new liefe'
 
 
 
